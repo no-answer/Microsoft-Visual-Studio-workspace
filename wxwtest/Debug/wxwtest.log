@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\Microsoft Visual Studio\workspace\wxwtest\源.cpp(32,9): warning C4838:  从“double”转换到“GLfloat”需要收缩转换
+D:\Microsoft Visual Studio\workspace\wxwtest\源.cpp(40,12): warning C4838:  从“double”转换到“GLfloat”需要收缩转换
+D:\Microsoft Visual Studio\workspace\wxwtest\源.cpp(48,10): warning C4838:  从“double”转换到“GLfloat”需要收缩转换
+D:\Microsoft Visual Studio\workspace\wxwtest\源.cpp(56,11): warning C4838:  从“double”转换到“GLfloat”需要收缩转换
+  wxwtest.vcxproj -> D:\Microsoft Visual Studio\workspace\wxwtest\Debug\wxwtest.exe

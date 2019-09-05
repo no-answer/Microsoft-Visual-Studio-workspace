@@ -1,4 +1,4 @@
-
+/*
 #include<GL/glut.h>
 void initial()
 {
@@ -28,3 +28,4 @@ int main(int argc, char* argv[])
 	glutMainLoop();
 	return 0;
 }
+*/
